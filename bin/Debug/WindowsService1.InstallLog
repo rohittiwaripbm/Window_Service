@@ -1,0 +1,355 @@
+﻿Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service NewName...
+Creating EventLog source NewName in log Application...
+Rolling back assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Removing EventLog source NewName.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service NewName...
+Service NewName has been successfully installed.
+Creating EventLog source NewName in log Application...
+Committing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service NewName...
+Creating EventLog source NewName in log Application...
+Rolling back assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Restoring event log to previous state for source NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Removing EventLog source NewName.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service NewName...
+Service NewName has been successfully installed.
+Creating EventLog source NewName in log Application...
+Committing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service NewName...
+Service NewName has been successfully installed.
+Creating EventLog source NewName in log Application...
+Committing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service NewName...
+Creating EventLog source NewName in log Application...
+Rolling back assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Restoring event log to previous state for source NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service NewName...
+Creating EventLog source NewName in log Application...
+Rolling back assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Restoring event log to previous state for source NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service NewName...
+Creating EventLog source NewName in log Application...
+Rolling back assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Restoring event log to previous state for source NewName.
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service NewName...
+Creating EventLog source NewName in log Application...
+Rolling back assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Restoring event log to previous state for source NewName.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Installing service NewName...
+Creating EventLog source NewName in log Application...
+Rolling back assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+Restoring event log to previous state for source NewName.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Attempt to stop service NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Attempt to stop service NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Attempt to stop service NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Attempt to stop service NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Attempt to stop service NewName.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
+Uninstalling assembly 'D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = D:\Windows Services\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source NewName.
+Warning: The source NewName is not registered on the local machine.
+Service NewName is being removed from the system...
+Service NewName was successfully removed from the system.
